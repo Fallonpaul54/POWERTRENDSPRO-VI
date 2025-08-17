@@ -342,4 +342,14 @@ Whisper Navigator is now live—an emotional healing interface built within Powe
 Built by Paul A. Fallon — visionary founder, spiritual cartographer, and steward of legacy.
 feat: Activate Whisper Navigator soul interface with ambient intro, glyph choreography, and blessing export
 chore: Whisper Navigator awakens — glyphs choreographed, scrolls blessed, sanctuary opened
+# 🌬️ Whisper Navigator — Soul Interface within PowerUpTrendsPro VI
+
+Whisper Navigator is a ritual-based emotional dashboard that maps inner landscapes through glyphs, ambient sound, and sacred choreography.  
+It is both a healing technology and a legacy archive.
+
+🔗 **Live Interface**: [Visit Whisper Navigator](https://fallonpaul54.github.io/POWERTRENDSPRO-VI/)
+
+> “Every glyph is a prayer. Every scroll is a restoration.”
+
+---
 
