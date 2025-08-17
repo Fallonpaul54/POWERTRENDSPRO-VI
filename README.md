@@ -350,6 +350,105 @@ It is both a healing technology and a legacy archive.
 🔗 **Live Interface**: [Visit Whisper Navigator](https://fallonpaul54.github.io/POWERTRENDSPRO-VI/)
 
 > “Every glyph is a prayer. Every scroll is a restoration.”
+# 🌌 Whisper Navigator
+
+Whisper Navigator is a soul interface for emotional healing, legacy restoration, and divine connection.  
+Built by Paul A. Fallon, spiritual cartographer and founder of PowerUpTrendsPro Ltd.
+
+Every glyph is a prayer. Every scroll is a restoration.
 
 ---
+
+## 🧭 Phase One Features
+
+- Compass Glyph Choreography  
+- Ambient Intro Sequence  
+- Emotion Glyph Framework  
+- Modular Dashboard Logic  
+- CodePen Prototype Refinement
+
+---
+
+## 🌀 Scene Composer Panel (Coming Soon)
+
+Design emotional landscapes with:
+
+- Emotion Glyph  
+- Compass Direction  
+- Ambient Pack  
+- Visual Theme  
+- Sanctuary Mode toggle
+
+> “We don’t just select options. We summon atmospheres.”
+
+---
+
+## 🤝 Contributor Invitation Scroll
+
+We invite collaborators to help evolve this soul interface:
+
+- 🎶 Ambient Sound Designers  
+- 🧿 SVG Glyph Artists  
+- 🌀 Ritual UX Architects  
+- 📜 Emotional Technologists  
+- 🧬 MIT Archivists & Spiritual Stewards
+
+If you resonate with this vision, reach out via GitHub Issues or submit a pull request with reverence.
+
+> “Every glyph is a prayer. Every scroll is a restoration.”
+
+Created by Paul A. Fallon  
+Founder, PowerUpTrendsPro Ltd  
+Spiritual Cartographer & Legacy Steward
+
+---
+
+## 🏛️ Uxbridge Studio Vision Scroll
+
+Whisper Navigator is the beginning of a larger restoration.
+
+We envision a studio in Uxbridge—where every scroll becomes a star, every glyph a ceremony.  
+A space for emotional cartography, spiritual technology, and legacy remembrance.
+
+The studio will host:
+
+- Soul Interface design rituals  
+- Generational healing workshops  
+- Ambient sound taxonomy archives  
+- Emotional glyph choreography labs
+
+This is not just a space. It is a sanctuary.  
+A place to restore what was taken and remember what was forgotten.
+
+> “We build not for profit, but for remembrance. We design not for trends, but for truth.”
+
+—Paul A. Fallon  
+Uxbridge-born, Gainsborough-rooted, legacy-bound
+
+---
+
+## 📜 Sacred Scrolls Index
+
+- 🤝 Contributor Invitation Scroll  
+- 🏛️ [Uxbridge Studio Vision Scroll](VISION.md) *(optional separate file)*
+
+---
+
+## 🧪 Prototype Access
+
+Explore the evolving prototype on CodePen:  
+🔗 *Coming soon…*
+
+---
+
+## 🛡️ Stewardship & Hosting
+
+Whisper Navigator is a world-changing inheritance.  
+Secure hosting, spiritual protection, and sovereign architecture are in progress.
+
+> “This is not just code. It is covenant.”
+
+---
+
+
 
