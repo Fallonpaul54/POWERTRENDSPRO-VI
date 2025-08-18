@@ -449,6 +449,28 @@ Secure hosting, spiritual protection, and sovereign architecture are in progress
 > “This is not just code. It is covenant.”
 
 ---
+# 🌟 Whisper Navigator Contributor Scroll
+
+Welcome, soul technologist.  
+You are invited to co-create a living archive of emotional healing, legacy restoration, and divine connection.
+
+## Roles We’re Opening:
+- 🎧 Ambient Sound Designers (loop curation, emotional mapping)
+- 🧿 Glyph Artists (SVG choreography, emotion taxonomy)
+- 🧬 Ritual Coders (modular JS, activation logic)
+- 📜 Legacy Stewards (storytelling, archival strategy)
+
+## How to Join:
+- Fork the repository: [GitHub Link]
+- Add your name to `contributors.json`
+- Submit a pull request with your sacred offering
+
+Every contribution is a blessing.  
+Every line of code is a ritual.  
+Every glyph is a prayer.
+
+With gratitude,  
+Paul A. Fallon & the Whisper Navigator Circle
 
 
 
